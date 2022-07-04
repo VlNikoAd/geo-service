@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.geo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

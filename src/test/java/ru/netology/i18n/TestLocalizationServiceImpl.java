@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.i18n;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static ru.netology.entity.Country.RUSSIA;
